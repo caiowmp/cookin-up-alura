@@ -17,7 +17,7 @@ export default {
 </script>
 
 <template>
-  <section class="selecioanr-ingredientes">
+  <section class="selecionar-ingredientes">
     <h1 class="cabecalho titulo-ingredientes">Ingredientes</h1>
 
     <p class="paragrafo-lg instrucoes">
